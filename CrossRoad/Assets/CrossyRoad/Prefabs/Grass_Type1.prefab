@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 5499702241272248573}
   - component: {fileID: 2136978071145894941}
   - component: {fileID: 2364546435274019418}
+  - component: {fileID: 6369113180012371569}
   m_Layer: 2
   m_Name: Grass_Type1
   m_TagString: Floor
@@ -97,3 +98,16 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
+--- !u!114 &6369113180012371569
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 635185600631575280}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 309f7320a5944aaabcb3ee5a0f4ab1ac, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  poolObjectType: 1

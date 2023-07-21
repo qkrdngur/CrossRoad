@@ -6,11 +6,22 @@ TagManager:
   tags:
   - Screen
   - Floor
+  - Tree_Type1
+  - TreeType1
+  - Car
+  - TreeType0
+  - Tree_Type0
+  - Tree_Type2
+  - TreeType2
+  - Log
+  - Train
+  - Water
+  - DeapWater
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - River
   - Water
   - UI
   - 
